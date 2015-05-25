@@ -1,3 +1,4 @@
 index
 this changed on new branch dev
-two: in master
+<<<<<<< HEAD
+two: in master and two branch
